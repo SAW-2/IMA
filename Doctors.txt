@@ -4,4 +4,6 @@ Doctor Qualification : MBBS, DNB
 Salary: 1.5 Laks
 Speciality : General Physicain 
 Hospital : Manipal Hospital
+Address : Old Airport Road, Banagalour
+Experiance : 30 y
 
