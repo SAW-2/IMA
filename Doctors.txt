@@ -2,6 +2,6 @@
 Doctor name : Dr.Sampath 
 Doctor Qualification : MBBS, DNB
 Salary: 1.5 Laks
-
-
+Speciality : General Physicain 
+Hospital : Manipal Hospital
 
