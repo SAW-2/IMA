@@ -1,5 +1,7 @@
 
-Doctor name : 
-Doctor Qualification :
-Salary
+Doctor name : Dr.Sampath 
+Doctor Qualification : MBBS, DNB
+Salary: 1.5 Laks
+
+
 
